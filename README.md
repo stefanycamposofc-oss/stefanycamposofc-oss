@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- BANNER PERSONALIZADO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0d1117,6e44ff,00d4ff&height=220&section=header&text=Stefany%20Campos&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner Stefany Campos" />
+  <!-- BANNER PERSONALIZADO COM NOME EM AZUL E ROXO -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d4ff,6e44ff&height=220&section=header&text=Stefany%20Campos&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Stefany Campos" />
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Focada+em+UI%2FUX+e+Desenvolvimento;Bem-vindo(a)+ao+meu+perfil!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;2%C2%BA+Semestre;Futura+Desenvolvedora" alt="Typing Animation" />
   </a>
 
   <br/><br/>
 
-  <!-- REDES SOCIAIS / BADGES -->
+  <!-- REDES SOCIAIS -->
   <a href="https://www.linkedin.com/in/stefany--campos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -19,24 +19,32 @@
 
 <hr>
 
-## 📌 Sobre Mim
+## 📌 About Me
 
-Olá! Sou a **Stefany Campos**, estudante de **Engenharia de Software**. 
+Olá, bem-vindo(a) ao meu perfil!
 
-- 🎓 Atualmente me dedicando aos estudos de fundamentos de engenharia de software, design e desenvolvimento.
-- 💡 Apaixonada por criar soluções funcionais, com visual moderno, intuitivo e bem estruturado.
-- 🎯 Buscando evoluir constantemente em desenvolvimento de software e UI/UX design.
+Sou estudante de **Engenharia de Software**, atualmente cursando o **2º semestre**. Este espaço é dedicado ao compartilhamento dos meus projetos acadêmicos, estudos práticos e evolução técnica na área de desenvolvimento de software.
+
+- 🎓 **Formação:** Graduação em Engenharia de Software (Em andamento - 2º semestre)
+- 🌱 **Tecnologias em estudo:** Python, C, HTML, CSS, Figma e Canva
+- 💼 **Objetivo:** Desenvolvimento de competências técnicas para futuras oportunidades de estágio.
 
 <hr>
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Techs
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 </div>
 
 <hr>
@@ -78,8 +86,8 @@ Olá! Sou a **Stefany Campos**, estudante de **Engenharia de Software**.
 
 | Projeto | Descrição | Tecnologias | Repositório |
 | :--- | :--- | :---: | :---: |
-| 📌 **Em breve** | Projeto em desenvolvimento | `Python` `HTML` `CSS` | [Acessar](#) |
-| 📌 **Em breve** | Projeto em desenvolvimento | `Figma` `UI/UX` | [Acessar](#) |
+| 📌 **Projetos Acadêmicos** | Exercícios e projetos do curso | `Python` `C` | [Acessar](#) |
+| 📌 **Interface & Design** | Protótipos e telas | `Figma` `Canva` | [Acessar](#) |
 
 </div>
 
@@ -96,6 +104,10 @@ Olá! Sou a **Stefany Campos**, estudante de **Engenharia de Software**.
 <!-- RODAPÉ PERSONALIZADO -->
 <div align="center">
   <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d4ff,6e44ff&height=100&section=footer" width="100%" alt="Footer" />
+  <p>💡 <i>"A melhor maneira de prever o futuro é criá-lo."</i></p>
+  <p>Desenvolvido com 💜 por <b>Stefany Campos</b></p>
+</div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0d1117,6e44ff,00d4ff&height=100&section=footer" width="100%" alt="Footer" />
   <p>💡 <i>"A melhor maneira de prever o futuro é criá-lo."</i></p>
   <p>Desenvolvido com 💜 por <b>Stefany Campos</b></p>
