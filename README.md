@@ -52,14 +52,14 @@ Sou estudante de **Engenharia de Software**, atualmente cursando o **2º semestr
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stefanycamposofc-oss&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=0052cc&border_color=0052cc&hide_border=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanycamposofc-oss&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=0052cc&border_color=0052cc&hide_border=false" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=stefanycamposofc-oss&show_icons=true&theme=dark&title_color=00d4ff&text_color=ffffff&icon_color=0052cc&border_color=0052cc" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanycamposofc-oss&layout=compact&theme=dark&title_color=00d4ff&text_color=ffffff&icon_color=0052cc&border_color=0052cc" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanycamposofc-oss&theme=dark&background=0D1117&border=0052CC&stroke=0052CC&alarm=00D4FF&fire=00D4FF&ring=0052CC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanycamposofc-oss&theme=dark&border=0052cc&stroke=0052cc&alarm=00d4ff&fire=00d4ff&ring=0052cc&currStreakLabel=00d4ff" alt="GitHub Streak" />
 </div>
 
 <hr>
@@ -67,7 +67,7 @@ Sou estudante de **Engenharia de Software**, atualmente cursando o **2º semestr
 ## 📈 Gráfico de Atividades
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stefanycamposofc-oss&theme=react-dark&bg_color=0d1117&color=00d4ff&line=0052cc&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stefanycamposofc-oss&theme=react-dark&bg_color=0d1117&color=00d4ff&line=0052cc&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <hr>
@@ -91,12 +91,4 @@ Sou estudante de **Engenharia de Software**, atualmente cursando o **2º semestr
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0d1117,0052cc,00d4ff&height=100&section=footer" width="100%" alt="Footer" />
   <p>💡 <i>"A melhor maneira de prever o futuro é criá-lo."</i></p>
   <p>Desenvolvido por <b>Stefany Campos</b></p>
-</div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d4ff,6e44ff&height=100&section=footer" width="100%" alt="Footer" />
-  <p>💡 <i>"A melhor maneira de prever o futuro é criá-lo."</i></p>
-  <p>Desenvolvido com 💜 por <b>Stefany Campos</b></p>
-</div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0d1117,6e44ff,00d4ff&height=100&section=footer" width="100%" alt="Footer" />
-  <p>💡 <i>"A melhor maneira de prever o futuro é criá-lo."</i></p>
-  <p>Desenvolvido com 💜 por <b>Stefany Campos</b></p>
 </div>
