@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- BANNER PERSONALIZADO COM NOME EM AZUL E ROXO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d4ff,6e44ff&height=220&section=header&text=Stefany%20Campos&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Stefany Campos" />
+  <!-- BANNER PERSONALIZADO (AZUL E PRETO) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0d1117,0052cc,00d4ff&height=220&section=header&text=Stefany%20Campos&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Stefany Campos" />
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
@@ -49,25 +49,17 @@ Sou estudante de **Engenharia de Software**, atualmente cursando o **2º semestr
 
 <hr>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=stefanycamposofc-oss&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Stefany GitHub Trophies" />
-</div>
-
-<hr>
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stefanycamposofc-oss&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=6e44ff&border_color=6e44ff&hide_border=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanycamposofc-oss&layout=compact&theme=synthwave&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=6e44ff&border_color=6e44ff&hide_border=false" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stefanycamposofc-oss&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=0052cc&border_color=0052cc&hide_border=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanycamposofc-oss&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=0052cc&border_color=0052cc&hide_border=false" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanycamposofc-oss&theme=dark&background=0D1117&border=6E44FF&stroke=6E44FF&alarm=00D4FF&fire=00D4FF&ring=6E44FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanycamposofc-oss&theme=dark&background=0D1117&border=0052CC&stroke=0052CC&alarm=00D4FF&fire=00D4FF&ring=0052CC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <hr>
@@ -75,7 +67,7 @@ Sou estudante de **Engenharia de Software**, atualmente cursando o **2º semestr
 ## 📈 Gráfico de Atividades
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stefanycamposofc-oss&theme=react-dark&bg_color=0d1117&color=00d4ff&line=6e44ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stefanycamposofc-oss&theme=react-dark&bg_color=0d1117&color=00d4ff&line=0052cc&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <hr>
@@ -93,17 +85,13 @@ Sou estudante de **Engenharia de Software**, atualmente cursando o **2º semestr
 
 <hr>
 
-## 🐍 Jogo da Cobrinha (Contributions)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/stefanycamposofc-oss/stefanycamposofc-oss/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" />
-</div>
-
-<hr>
-
 <!-- RODAPÉ PERSONALIZADO -->
 <div align="center">
   <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0d1117,0052cc,00d4ff&height=100&section=footer" width="100%" alt="Footer" />
+  <p>💡 <i>"A melhor maneira de prever o futuro é criá-lo."</i></p>
+  <p>Desenvolvido por <b>Stefany Campos</b></p>
+</div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=00d4ff,6e44ff&height=100&section=footer" width="100%" alt="Footer" />
   <p>💡 <i>"A melhor maneira de prever o futuro é criá-lo."</i></p>
   <p>Desenvolvido com 💜 por <b>Stefany Campos</b></p>
