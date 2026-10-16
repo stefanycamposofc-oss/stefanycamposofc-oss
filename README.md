@@ -2,8 +2,9 @@
 <!-- Paleta: Vinho escuro #4A0E1A | Bordô #6B1426 | Vermelho vinho #8B1E2F | Vermelho #A8323E | Bege #E8D5B7 | Creme #F5EBDD | Fundo #1A0A0D -->
 
 <!-- ===================== CABEÇALHO ===================== -->
+<!-- Arquivo header.svg na raiz do repositório -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0E1A,50:6B1426,100:A8323E&height=210&section=header&text=Stefany%20Campos&fontColor=F5EBDD&fontSize=50&fontAlignY=36&desc=Estudante%20de%20Engenharia%20de%20Software&descSize=18&descAlignY=56&descColor=E8D5B7&animation=fadeIn" width="100%" alt="Stefany Campos"/>
+  <img src="./header.svg" width="100%" alt="Stefany Campos — Estudante de Engenharia de Software"/>
 </p>
 
 <p align="center">
@@ -136,6 +137,7 @@
 </p>
 
 <!-- ===================== RODAPÉ ===================== -->
+<!-- Arquivo footer.svg na raiz do repositório -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8323E,50:6B1426,100:4A0E1A&height=120&section=footer&animation=fadeIn" width="100%" alt="Rodapé"/>
+  <img src="./footer.svg" width="100%" alt="Rodapé"/>
 </p>
